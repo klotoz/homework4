@@ -1,0 +1,20 @@
+.text-area {
+    -fx-background-color: #000000;
+
+    -fx-control-inner-background: #eeeeee;
+    -fx-font-size: 16;
+}
+
+.text-field {
+    -fx-border-color: #000000;
+
+}
+
+.root {
+ -fx-background-color: #939393;
+}
+
+.button {
+-fx-font-weight: bold;
+-fx-background-color: #e0dada;
+}
